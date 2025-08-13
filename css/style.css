@@ -1571,7 +1571,7 @@ label {
 	height: 48px;
 }
 .choose-item-two .choose-content {
-	width: 77%;
+	/* width: 77%; */
 }
 
 /* 9. Chart */
@@ -1722,9 +1722,9 @@ label {
 	margin-bottom: 30px;
 }
 .counter-icon {
-	width: 71px;
+	width: 41px;
 	flex: 0 0 71px;
-	margin-right: 30px;
+	margin-right: 10px;
 }
 .counter-content .count {
 	display: flex;
